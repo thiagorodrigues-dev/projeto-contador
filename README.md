@@ -1,3 +1,3 @@
 # projeto-contador
 
-Projeto de contador, onde foi usada a linguagem java,usando os conhecimentos de laços de repetição, lancamentos de excessões, e receber parametros pelo terminal.
+Projeto de contador, onde foi usada a linguagem Java, usando os conhecimentos de laços de repetição, lançamentos de exceções, e receber parâmetros pelo terminal.
